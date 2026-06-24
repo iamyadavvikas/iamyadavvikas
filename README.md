@@ -65,14 +65,17 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/iamyadavvikas/mac-cache-cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=mac-cache-cleaner&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
+  <a href="https://github.com/iamyadavvikas/ai-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=ai-platform&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
   </a>
-  <a href="https://github.com/iamyadavvikas/iamyadavvikas.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=iamyadavvikas.github.io&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
+  <a href="https://github.com/iamyadavvikas/incident-response-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=incident-response-lab&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
+  </a>
+  <a href="https://github.com/iamyadavvikas/idp-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=idp-platform&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
   </a>
 </p>
 
