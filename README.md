@@ -76,6 +76,17 @@
   </a>
 </p>
 
+### 🌐 Live Projects
+
+<p align="center">
+  <a href="https://www.crackgate.in">
+    <img src="https://img.shields.io/badge/CrackGate-www.crackgate.in-2DD4BF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=080b12" />
+  </a>
+  <a href="https://www.filebrsr.com">
+    <img src="https://img.shields.io/badge/FileBrsr-www.filebrsr.com-2DD4BF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=080b12" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Activity Graph
