@@ -67,17 +67,48 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/iamyadavvikas/ai-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=ai-platform&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
-  </a>
-  <a href="https://github.com/iamyadavvikas/incident-response-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=incident-response-lab&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
-  </a>
-  <a href="https://github.com/iamyadavvikas/idp-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamyadavvikas&repo=idp-platform&theme=dark&bg_color=080b12&border_color=243049&icon_color=2dd4bf&text_color=9aa5bd&title_color=2dd4bf&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/migration-safety-engine"><b>🛡️ Migration Safety Engine</b></a><br>
+      <sub>Go · Postgres</sub>
+      <br><br>
+      Crash-resumable state machine for online Postgres schema migrations. Expand/contract pattern with shadow-read parity verification, SLO-gated canary, and auto-rollback.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/ai-platform"><b>🤖 AI Infrastructure Platform</b></a><br>
+      <sub>Kubernetes · KServe · vLLM · Terraform</sub>
+      <br><br>
+      Deploy, scale, and monitor open-source LLMs (Mistral-7B, Phi-3, Gemma) on K8s. Scale-to-zero KEDA autoscaling saves $10k+/mo on idle GPU instances.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/idp-platform"><b>🏗️ IDP Platform</b></a><br>
+      <sub>ArgoCD · Terraform · K8s</sub>
+      <br><br>
+      Self-service GitOps platform. Argo Rollouts canary deployments, External Secrets Operator, Infracost cost tracking. Push YAML, zero touch.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/crp"><b>📊 CRP — Claims Reliability Platform</b></a><br>
+      <sub>Go · React · OTel · Prometheus</sub>
+      <br><br>
+      Distributed tracing & observability platform for insurance claims. DAG-based claim tracking, ML scoring, SLA breach detection, PagerDuty alerts.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/incident-response-lab"><b>🔥 Incident Response Lab</b></a><br>
+      <sub>FastAPI · Docker Compose · Prometheus · Grafana</sub>
+      <br><br>
+      12-service microservice platform with 3 engineered failure modes. Practice SRE incident response — detect, triage, RCA, postmortem — in a safe environment.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/iamyadavvikas/pacemaker"><b>⏱️ Pacing Governor</b></a><br>
+      <sub>Python · Postgres · MongoDB</sub>
+      <br><br>
+      Runtime governor that throttles DB migration/backfill jobs against live DB headroom. AIMD control loop (TCP congestion-style) prevents production outages.
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Live Projects
 
